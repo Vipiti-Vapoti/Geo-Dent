@@ -38,6 +38,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Themes\GeoAndDent.Theme\GeoAndDent.Theme.csproj" />
     <ProjectReference Include="..\Themes\Sample.Theme\Sample.Theme.csproj" />
   </ItemGroup>
 </Project>
