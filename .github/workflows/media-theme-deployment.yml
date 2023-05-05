@@ -1,4 +1,4 @@
-name: Deploy Geo And Dent to DotNest
+name: Deploy Media Theme to DotNest
 
 on:
   push:
